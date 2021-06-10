@@ -42,3 +42,13 @@ Our Digital Talent Ecosystem is comprised of many participants and interactions.
 * **Learning Institutions:** Understanding what the ecosystem requires and educating students accordingly can better position students to succeed in the workforce.
 
 We also need to make special mention of **Digital Standards Institutions**, such as IEEE. These institutions stand alongside our digital talent ecosystem (and those found around the world). We engage, support and leverage the standards body to benefit our local ecosystem and feed into the larger global ecosystem.
+
+# Considerations
+## Pre-Conceived Notions
+Pre-conceived and disparate notions of digital intelligence can introduce friction when looking to scale or accelerate digital growth. In the past, talking points around digital workforce trends have centered heavily around technology, automation and loss of jobs. However, being digital should take a much broader and more holistic view. Further, being digital starts with people. Technology amplifies our talent and investments. 
+
+## Network Effect
+The more organizations that use the same digital intelligence framework, the more value it provides. Therefore, organizations want to adopt a framework that is likely to be chosen by other ecosystem members. A fragmented ecosystem limits the impact of the ecosystem and digital intelligence frameworks. However, don’t get stuck in “analysis paralysis”; any strides towards beginning to define digital are more valuable than sitting still.
+
+## Customization vs. Standardization
+There is a balance to strike between customization and uniformity of the digital intelligence framework. As a digital intelligence framework is the foundation for an organization’s digital strategy, it is important to balance added layers of relevancy to the organization with remaining universally understood and connected. This risk can be mitigated through consistent ecosystem engagement and collaboration.
