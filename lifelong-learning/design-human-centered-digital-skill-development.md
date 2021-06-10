@@ -1,0 +1,1 @@
+As intelligent technologies continue to automate certain tasks previously owned by human workers, human-centered digital skills become increasingly important. Distill the importance of innately human skills that interact and improve machines. Develop these skills through targeted initiatives.
