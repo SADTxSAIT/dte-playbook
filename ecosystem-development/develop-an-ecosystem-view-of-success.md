@@ -1,0 +1,1 @@
+Align digital talent success metrics and objectives to develop a unified ecosystem view. Providing an ecosystem wide measurement tool will allow for holistic talent strategy development and tactics.  
