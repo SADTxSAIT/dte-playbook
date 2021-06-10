@@ -32,9 +32,20 @@ Skill mapping defines the specific skills and capabilities required for emerging
 
 
 # Stakeholders
-
-
+Our Digital Talent Ecosystem is comprised of many participants and interactions with immense complexity as we consider the many permutations of careers, people, technologies and skills. Navigating the ecosystem in a way that leads to successful outcomes is a challenge! Let’s look at the positive impact of creating skill maps through the lens of some of the stakeholders: 
+* **Talent-Seeking Organizations:** Implementing a skill-based mindset and beginning to skill map can lead to success through transparent communication with all involved stakeholders. 
+* **Government (Gov):** By assessing and reporting digital talent gaps in a skill-based manner, governments can enable individuals and organizations to proactively equip themselves based off the reported demand. 
+* **Technology partners:** Skill mapping companies have developed solutions to support and scale skill mapping within talent-seeking organizations. These partners are integral to the implementation of skill-mapping in today’s digital environment.   
+We also need to be especially mindful of prospective and current workforce participants:
+* **Prospective workforce participants** can leverage the skill mapping to target their skill development for desired roles. For those in-between roles, skill matching can help take inventory of the skills they currently have and highlight a more direct path to a digital role with similar foundational skills. 
+* **Current workforce participants** can utilize the work done by their employers to identify skills they may want to develop. They can use skill mapping efforts to gauge internal mobility to other roles with similar skills. 
 
 # Considerations
+## Talent Inertia and Mindset
+For skill mapping to work for an organization, there must be a certain level of buy-in from leadership, talent professionals and employees. The mindset of “well this is the way we have always hired” is a direct barrier to unlocking the transparency and mobility that skill mapping can provide.  
+## Complexity of Defining Skills
+Certain skills (e.g., collaboration) can be difficult to define and measure. Although traditional certifications and credentials provide a foundation for measurement, skill mapping must include experience, knowledge, attitudes and values as well. A strong framework for assessing and identifying skills is core to skill mapping and must be aligned on at an early stage across the entire organization and potentially the whole ecosystem.   
+## Fear of Exposing Skill Gaps
+Skill mapping highlights the strengths of an organization and its people, but it also identifies weaknesses in the form of skill gaps. This poses a risk as individuals within an organization may be hesitant to point out their own skill gaps. Developing and communicating an understanding in the value of identifying skill gaps is a potential mitigation tactic. This fear emphasizes the need for psychological safety and the reduction of friction in the learning ecosystem for effective skills mapping to occur.
 
 # Example
