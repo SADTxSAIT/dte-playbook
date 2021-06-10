@@ -1,0 +1,1 @@
+Industry partners should increase collaboration with educational and government institutions to develop and fund work-integrated learning programs (e.g. internships). These programs ensure upcoming talent is equipped with the skills needed in the industry today and ease the transition of new employees into companies.
