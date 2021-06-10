@@ -34,6 +34,10 @@ Making Changes is a not-for-profit organization whose mission is to empower wome
 
 Making Changes offers a Women in Technology program to assist women to succeed in digital careers. The program is focused on providing training and career guidance to women interested in Information Technology careers. The program is split into three main parts. The first part is centred around teaching students how to apply and interview for jobs. The next portion is a mini-bootcamp in Full Stack Web Development. The program finishes by providing students tangible work experience in industry. The program graduated 12 women in the 2019-2020 cohort20. The program has received numerous testimonials from these graduates. They credit Making Changes as being instrumental in them finding success in the digital economy.
 
+# Example: Acosys
+Founded in 2006, Acosys is an Indigenous consulting firm. The organization offers business solutions, technology integration, and talent management. They also work with clients from a variety of industries. These include Financial Services, Government, Healthcare and IT. Acosys’ success in promoting indigenous equality resulted in them winning the Business Excellence Award from the Toronto Board of Trade.
+
+A sample credential for Acosys is their past work with Accenture. Accenture is a multi-national consulting firm that helps its client with technology and systems transformations. They aim to promote an inclusive recruiting environment and on-going support for qualified indigenous people. One step towards this is through the Indigenous Internship Program, in partnership with Acosys Consulting, and the Aboriginal Professional Association of Canada. This partnership has led to three permanent hires into corporate functions and consulting and five internships.
 
 
 
