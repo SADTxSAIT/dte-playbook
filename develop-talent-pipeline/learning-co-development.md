@@ -13,6 +13,17 @@ In summary, a systems approach to learning will need to be developed and impleme
 
 **36%** *Of Calgary employers state that the largest factor inhibiting digital growth is a lack of talent4	– A Digital Future for Alberta, ICTC*
 
+# Objectives
+The overall objective of learning co-development and co-delivery is to create a healthy learning ecosystem. The ecosystem is comprised of three different groups. The opportunity seekers (Learners), opportunity providers (employers), and the educators (academic institutions). Each group has clearly defined objectives that the other groups will have a direct role in supporting. This means that for each individual group to fully prosper, the entire ecosystem must be successful - a symbiotic relationship. 
+* **Learners** Provide students the opportunity to engage in relevant industry education, enabling them to acquire relevant digital skills and bridge the gap between theory and practice.
+* **Employers** Enable organizations to have a direct influence in student learning to improve the quality of digital talent being produced, ultimately leading to more talent in the ecosystem.
+* **Academic Institutions** Facilitate student-student and student-employer relationship building. Maintain and scale relevancy of student learning experiences to meet current and anticipated economic demand.
+
+# Activities
+
+
+
+
 
 
 
