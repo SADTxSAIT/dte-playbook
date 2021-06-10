@@ -26,14 +26,14 @@ Ideally, a digital intelligence framework also recognizes that we are currently 
 
 Building on this first step, quickly follow up by examining what other ecosystem members are using as well as similar players in different geographies or industries. Engaging with the ecosystem, collaborating with others, and joining discussions transparently is critically important. Operating in isolation, opaquely, and with only an inward focus will limit progress, impact and innovation.
 
-##Outputs
+## Outputs
 **After selecting a digital intelligence framework, focus transitions to adoption planning.** Initial adoption can include piloting the new digital intelligence framework across the organization, testing and measuring its effectiveness. Since organizations are at different levels of digital and business maturity, it is important to adjust adoption strategies accordingly. A company that from its beginning has been running in agile might feel comfortable testing and iterating on their digital skills standard, whereas a more traditional organization could require further planning for a thoughtful adoption.  
 
 A standard framework provides the opportunity for ecosystem partners to share lessons learned. At a minimum, organizations should communicate with their ecosystem to evolving and kept up to date. Ideally, the framework is supported by a standards body that supports input, updates regularly and promotes the framework. Co-creating localized customizations to the framework is an option, but deviation from standards reduces the value of the standard. Try to minimize customizations and instead seek ways to influence and shape the standard. 
 
 Also, recognize that there are other types of frameworks that may complement and further advance your needs. Look to combine frameworks within your organizational environment to gain further clarity on how digital connects with all aspects of your efforts, investments and innovations.
 
-#Stakeholders
+# Stakeholders
 Our Digital Talent Ecosystem is comprised of many participants and interactions. The friction from describing digital intelligence differently impacts every one of us. The friction leads to waste, duplication of efforts and an inability to communicate and collaborate. If we can get the entire digital talent ecosystem to share a common view on digital intelligence, we can address these issues. Let’s look at the positive impact of an adopting a digital intelligence framework in our ecosystem through the lens of some of the stakeholders: 
 * **Talent-Seeking Organizations:** Adopting a digital intelligence framework provides a unified language for discussing digital talent. This can be used to make decisions internally for all matters regarding talent acquisition, talent development, and enable greater understanding across the ecosystem.
 * **Government (Gov):** An aligned and shared view reduces duplicate efforts, simplifies coordination and makes it easier for investments and legislation. In short, it makes it easier for government to take a role in helping people thrive in our digital society. 
