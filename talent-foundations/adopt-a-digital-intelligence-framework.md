@@ -52,3 +52,18 @@ The more organizations that use the same digital intelligence framework, the mor
 
 ## Customization vs. Standardization
 There is a balance to strike between customization and uniformity of the digital intelligence framework. As a digital intelligence framework is the foundation for an organization’s digital strategy, it is important to balance added layers of relevancy to the organization with remaining universally understood and connected. This risk can be mitigated through consistent ecosystem engagement and collaboration.
+
+## Assessing Different Digital Intelligence Frameworks
+In adopting a digital intelligence framework there are multiple options and paths to choose from. When making a choice, consider ecosystem, validity, and support. **The DQ Digital Intelligence Framework from IEEE is recommended for use in our Digital Talent Ecosystem.**
+* **Recommended** The DQ Digital Intelligence framework is an international standard published by IEEE. There are options for customization and a path to influence future versions of the standard. DQ has input from the WEF, OECD and the UN Sustainable Development Goals.
+* **Use as a Reference** DigComp is a framework created, supported and used by the European Union. Documentation for the framework is freely available. Case studies and tooling are available as further reference.
+* **Avoid** Creating your own digital intelligence framework can be a tempting option. This is a long and expensive journey, especially if a goal is to get adoption outside of your organization.
+
+# Example: London Digital Skills Strategy
+Setting out with the vision that “people and businesses, across the City, London and beyond, are equipped to take full advantage of digital technologies and innovations to help themselves and their economies thrive”, the Mayor of London wanted to double down on the city’s digital skills strategy14. Research and feedback from government, educational, and industry organizations highlighted that even with increased focused on digital skills, too few individuals were equipped to succeed in the digital economy. 
+
+In order to address this challenge and achieve the vision for London’s citizens, the updated digital skills strategy emphasized three key pillars: digital competitiveness, digital creativity and digital citizenship. To help define these three key pillars and provide a grounding for the updated strategy as a whole, the Mayor and his team adopted the DQ Digital Intelligence Framework14.
+
+Harnessing the DQ framework and the new outlook on developing digital ready citizens, the city of London committed to consistently and openly collaborating with ecosystem partners such as educational institutions and local corporations to continue to shape the strategy and address immediate digital skills gaps together. Another key aspect of the strategy included the commitment of sharing the city’s learnings throughout the process with the greater digital community and yearly auditing of the strategy to address shortcomings and iterate for the future. The strategy is now on its fourth audit and continues to play a role in London’s digital talent development. This focus on collaboration, digital intelligence and scaling impact carries on today with the work of FutureDotNow. 
+
+*“Our aim is to inspire behavioural change across society that could lead to a genuine cultural shift. We’re putting the focus on lifelong learning and developing the digital skills people require for work – helping them identify the skills they need and showing them where to get them.”14. -- FutureDotNow*
