@@ -1,0 +1,1 @@
+The broader ecosystem will can redefine skill development by introducing a co-creation and co-delivery approach to education. This includes creating partnerships between digital organizations and academic institutions to help produce workers who are equipped to deliver on the job requirements of the future.
