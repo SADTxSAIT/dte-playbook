@@ -1,0 +1,1 @@
+Develop the processes and partnerships to facilitate cross-ecosystem secondments. Enable complementary digital skill development through experiential learning outside of an individual’s typical work environment. 
