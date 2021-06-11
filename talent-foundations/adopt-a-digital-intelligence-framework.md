@@ -14,7 +14,7 @@ Leveraging a digital intelligence framework can support development of ecosystem
 
 Ideally, a digital intelligence framework also recognizes that we are currently defining our digital society. Seeing our moment in time, we can shape and define the characteristics of that society. Recognizing and supporting ethics, well-being, sustainability, agency and responsibility will enable our ecosystem to design and execute on a meaningful future that every stakeholder can understand, appreciate, and thrive in!
 
-**36%** Of Calgary employers state that the largest factor inhibiting digital growth is a lack of talent4	                          – A Digital Future for Alberta, ICTC
+**36%** Of Calgary employers state that the largest factor inhibiting digital growth is a lack of talent4 – A Digital Future for Alberta, ICTC
 
 **2x** the increased amount of time an employee stays at a company with strong internal mobility. This delivers decreased hiring, retraining and lost productivity costs10. – Workplace Learning Report 2021, LinkedIn
 
