@@ -2,7 +2,9 @@
 The Digital Talent Ecosystem playbook offers topics, plays, examples, provocations and ideas to support YYC in how we share, collaborate and grow digital talent together.
 
 
-
+## Experiential Learning
+* [Emphasize Work Integrated Learning Programs](https://github.com/SADTxSAIT/dte-playbook/blob/main/experiential-learning/emphasize-work-integrated-learning-programs.md)
+* [Leverage Immersive Learning](https://github.com/SADTxSAIT/dte-playbook/blob/main/experiential-learning/leverage-immersive-learning.md)
 
 
 
