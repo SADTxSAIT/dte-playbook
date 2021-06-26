@@ -1,8 +1,6 @@
-1. Scalco, D. (2015, August 5). 6 Chinese Proverbs Every Entrepreneur Should Read. Inc.com.
-https://www.inc.com/dan-scalco/6-chinese-proverbs-every-entrepreneur-should-read.html.
-2. Andreessen, M. (2020, April 18). Why Software Is Eating the World. Andreessen Horowitz.
-https://a16z.com/2011/08/20/why-software-is-eating-the-world/.
-3. Lutke, T [@tobi].(2021, February 25). We found a wire service that allows us to release press releases with the location Internet, Everywhere. Thank you @newsfile_corp. We can now remove this paragraph: pic.twitter.com/QqMCvVIJ1G [Tweet]. Twitter. https://twitter.com/tobi/ status/1365060092329144325.
+1. Scalco, D. (2015, August 5). 6 Chinese Proverbs Every Entrepreneur Should Read. Inc.com. https://www.inc.com/dan-scalco/6-chinese-proverbs-every-entrepreneur-should-read.html.
+2. Andreessen, M. (2020, April 18). Why Software Is Eating the World. Andreessen Horowitz. https://a16z.com/2011/08/20/why-software-is-eating-the-world/.
+3. Lutke, T [@tobi].(2021, February 25). We found a wire service that allows us to release press releases with the location Internet, Everywhere. Thank you @newsfile_corp. We can now remove this paragraph: pic.twitter.com/QqMCvVIJ1G [Tweet]. Twitter. https://twitter.com/tobi/status/1365060092329144325.
 4. Microsoft. (2021, March 22). The Next Great Disruption Is Hybrid Work-Are We Ready? Microsoft. https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work.
 5. Gibson, J. (2021, May 18). The Future of Presence. Jim A. Gibson. https://jimagibson.com/2021/05/the-future-of-presence/.
 6. Kirkwood, I. (2020, June 5). Slack reports record customer growth as global workforces
