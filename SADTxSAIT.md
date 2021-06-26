@@ -2,7 +2,7 @@
 
 SAIT currently offers programs through nine schools in the domains of Energy, Business, Construction, Health & Public Safety, Hospitality & Tourism, Information & Communications Technologies, Manufacturing & Automation, Transportation, and most recently, Advanced Digital Technology.
 
-The [School for Advanced Digital Technology (SADT)] (https://www.sait.ca/about-sait/who-we-are/sait-schools/school-for-advanced-digital-technology/about-us) was established in 2020 as a new, digital focused school at SAIT. SADT brings together learners, educators, creators, employers and inventors to learn digital skills and harness the mindset and connections to participate in, shape and lead our digital society. As a convenor, beacon, and catalyst, we strive to be a leader in the Digital Talent Ecosystem. And through these efforts:
+The [School for Advanced Digital Technology (SADT)](https://www.sait.ca/about-sait/who-we-are/sait-schools/school-for-advanced-digital-technology/about-us) was established in 2020 as a new, digital focused school at SAIT. SADT brings together learners, educators, creators, employers and inventors to learn digital skills and harness the mindset and connections to participate in, shape and lead our digital society. As a convenor, beacon, and catalyst, we strive to be a leader in the Digital Talent Ecosystem. And through these efforts:
 
 **We teach and empower people to thrive, create, and lead our digital society**
 
