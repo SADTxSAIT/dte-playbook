@@ -1,4 +1,4 @@
-**The Southern Alberta Institute of Technology (SAIT) is a post-secondary institution in Calgary, Alberta, Canada**. SAIT utilizes action-based learning, solution-focused research, and industry partnerships to help shape the next generation of inventors, entrepreneurs, and pioneers.
+The [Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/about-sait) is a post-secondary institution in Calgary, Alberta, Canada. SAIT utilizes action-based learning, solution-focused research, and industry partnerships to help shape the next generation of inventors, entrepreneurs, and pioneers.
 
 SAIT currently offers programs through nine schools in the domains of Energy, Business, Construction, Health & Public Safety, Hospitality & Tourism, Information & Communications Technologies, Manufacturing & Automation, Transportation, and most recently, Advanced Digital Technology.
 
