@@ -1,1 +1,7 @@
-intro
+”The key factors driving the strength of human innovation ecosystems are: diversity of talents, trust across social barriers, motivations that rise above short-term rationality, and social norms that promote rapid, “promiscuous” collaboration and experimentation among individuals.”29
+
+[Develop an Ecosystem View on Success](https://github.com/SADTxSAIT/dte-playbook/blob/main/ecosystem-development/develop-an-ecosystem-view-of-success.md): Align digital talent success metrics and objectives to develop a unified ecosystem view. Providing an ecosystem wide measurement tool will allow for holistic talent strategy development and tactics.
+
+[Facilitate Secondments Across Ecosystem partners](https://github.com/SADTxSAIT/dte-playbook/blob/main/ecosystem-development/facilitate-secondments-across-ecosystem-partners.md): Develop the processes and partnerships to facilitate cross-ecosystem secondments. Enable complementary digital skill development through experiential learning outside of an individual’s typical work environment.
+
+[Recruit top Educators into the Local System](https://github.com/SADTxSAIT/dte-playbook/blob/main/ecosystem-development/recruit-top-educators-into-the-local-system.md):Recruit top tier educators to local educational institutions, attracting interested followers and attaining further recognition for the ecosystem. Top tier educators will further develop emerging talent and lessen the skill gap at industry entry level roles.
