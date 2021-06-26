@@ -9,7 +9,7 @@ The Digital Talent Ecosystem Playbook is a living document. The plays themselves
 
 
 ## Talent Foundations
-* [Adopt a Digital Intelligence Framework](https://github.com/SADTxSAIT/dte-playbook/blob/main/talent-foundations/adopt-a-digital-intelligence-framework.md)
+* [Adopt a Framework for Digital Literacy, Skills, and Readiness](https://github.com/SADTxSAIT/dte-playbook/blob/main/talent-foundations/adopt-a-framework-for-digital-literacy-skills-and-readiness.md)
 * [Create Skill Maps](https://github.com/SADTxSAIT/dte-playbook/blob/main/talent-foundations/create-skill-maps.md)
 ## Develop Talent Pipeline
 * [Cultivate In-depth Mentorship Programs](https://github.com/SADTxSAIT/dte-playbook/blob/main/develop-talent-pipeline/cultivate-in-depth-mentorship-programs.md)
