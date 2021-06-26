@@ -1,1 +1,5 @@
-Overview
+“Experiential learning captures our attention because it is immersive and hands-on. Learners are active participants, not passive recipients of knowledge.” 25
+
+[Leverage Immersive Learning](https://github.com/SADTxSAIT/dte-playbook/blob/main/experiential-learning/leverage-immersive-learning.md): Harness immersive learning experiences to train, teach and upskill your workforce. Innovative technologies like extended reality (XR) and artificial intelligence (AI) have the potential to break down traditionally isolated work and learning silos. Immersive Learning methods have advanced beyond just technical skills and now include capabilities for human skills such as presentation delivery. These approaches can be incorporated into both formal and informal skill development programs, targeting holistic digital skill building across an organization.
+
+[Emphasize Work-Integrated Learning Programs](https://github.com/SADTxSAIT/dte-playbook/blob/main/experiential-learning/emphasize-work-integrated-learning-programs.md): Industry partners should increase collaboration with educational and government institutions to develop and fund work-integrated learning programs (e.g. internships). These programs ensure upcoming talent is equipped with the skills needed in the industry today and ease the transition of new employees into companies.
