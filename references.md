@@ -17,7 +17,7 @@ go remote. BetaKit. https://betakit.com/slack-reports-record-customer-growth-as-
 16. Cutean, A., McLaughlin, R. (2019). A Digital Future for Alberta: An Analysis of Digital Occupations in Alberta’s High-growth Sectors. Information and Communications Technology Council (ICTC). Ottawa, Ontario. https://www.ictc-ctic.ca/wp-content/uploads/2019/06/ICTC_alberta-digital-future-final-6.2919.pdf.
 17. LinkedIn Learning. (2021). 2021 Workplace Learning Report: LinkedIn Learning. 2021 Workplace Learning Report | LinkedIn Learning. https://learning.linkedin.com/resources/workplace-learning-report.
 18. Education & Technology Skills Research – Accenture (Internal)
-19. Ahmad, S. (2018). Appendix One - Digital Skills Strategy. https://democracy.cityoflondon.gov.uk/ documents/s100846/Digital%20Skills%20Strategy%20-%20For%20Committees%20Appendix%20 One%20FINAL.pdf.
+19. Ahmad, S. (2018). Appendix One - Digital Skills Strategy. https://democracy.cityoflondon.gov.uk/documents/s100846/Digital%20Skills%20Strategy%20-%20For%20Committees%20Appendix%20One%20FINAL.pdf.
 20. Empowering everyone to thrive in a digital UK. (2019). https://media.futuredotnow.uk/wp-content/uploads/2019/10/Brochure_04102019.pdf.
 21. Lu, J. (2019, July 10). Skills, not job titles, are the new metric for the labour market. LinkedIn’s Economic Graph. https://economicgraph.linkedin.com/blog/skills-not-job-titles-are-the-new-metric-for-the-labour-market.
 22. 22. WEF. (2019). Strategies for the New Economy: Skills as the Currency of the Labour Market. http://www3.weforum.org/docs/WEF_2019_Strategies_for_the_New_Economy_Skills.pdf.
