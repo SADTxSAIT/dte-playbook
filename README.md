@@ -29,7 +29,7 @@ The Digital Talent Ecosystem Playbook is a living document. The plays themselves
 * [Leverage Immersive Learning](https://github.com/SADTxSAIT/dte-playbook/blob/main/experiential-learning/leverage-immersive-learning.md)
 
 ## Lifelong Learning
-* [Design Human Centered Digital Skill Development](https://github.com/SADTxSAIT/dte-playbook/blob/main/lifelong-learning/design-human-centered-digital-skill-development.md)
+* [Adopt a Human-Centred Design approach to Digital Talent Development](https://github.com/SADTxSAIT/dte-playbook/blob/main/lifelong-learning/adopt-a-human-centred-design-approach-to-digital-talent-development.md)
 * [Engage and Develop the Next Generation of Talent](https://github.com/SADTxSAIT/dte-playbook/blob/main/lifelong-learning/engage-and-develop-the-next-generation-of-talent.md)
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
